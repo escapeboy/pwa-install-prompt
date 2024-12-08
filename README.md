@@ -47,3 +47,10 @@ To use the script, simply add the following `<script>` tag to your HTML file:
 
 ## iOS PWA Installation Instructions
 On iOS devices, where automatic PWA installation is not supported, the modal displays instructions to guide users on how to add the app to the home screen using Safari's "Add to Home Screen" feature.
+
+
+## Contribute
+Would you like to see this script support your language? Feel free to contribute! If you can provide a translation, please submit a pull request to the repository. Let's make it more accessible for everyone!
+
+## License
+MIT © ryxxn.
