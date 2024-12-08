@@ -1,3 +1,11 @@
+/*!
+ * pwa-install-prompt
+ * Copyright (c) 2024 ryxxn
+ * Released under the MIT License
+ * https://github.com/ryxxn/pwa-install-prompt
+ */
+
+
 // constants
 const MODAL_STYLE = `
   .wepp-modal-overlay * { box-sizing: border-box; }
