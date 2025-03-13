@@ -38,6 +38,14 @@ To use the script, simply add the following `<script>` tag to your HTML file:
 </html>
 ```
 
+---
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/bae118a2-9bf8-4428-9d86-9620c11b748c" alt="default install modal" style="height:400px"></img>
+    <img src="https://github.com/user-attachments/assets/14b0b72f-e7b9-4e38-89b1-73888c5ebfd0" alt="IOS install modal" style="height:400px"></img>
+</p>
+
+---
 
 ## Features
 - PWA Install Modal: Provides a modal for installing the PWA, detecting the `beforeinstallprompt` event, and allowing users to proceed with the installation.
