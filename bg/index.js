@@ -227,7 +227,7 @@ function main() {
       const deferredPrompt = e;
       const installButton = document.getElementById('wepp-install-button');
       installButton.addEventListener('click', () => showPrompt(deferredPrompt), { once: true })
-      installButton.innerText = 'Install as an app';
+      installButton.innerText = 'Инсталирай като приложение';
       installButton.disabled = false;
       state.isInstalled = false;
     });
