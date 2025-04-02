@@ -78,7 +78,7 @@ function getFaviconHref() {
   const linkElements = document.getElementsByTagName('link');
 
   for (let i = 0; i < linkElements.length; i++) {
-    if (linkElements[i].getAttribute('rel').contains('icon')) {
+    if (linkElements[i].getAttribute('rel').split(' ').includes('icon')) {
       return linkElements[i].getAttribute('href');
     }
   }
